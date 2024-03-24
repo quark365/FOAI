@@ -1,1 +1,1 @@
-# FOAI
+# Fundamentals Of AI codes
